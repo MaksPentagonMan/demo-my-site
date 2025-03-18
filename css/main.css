@@ -2,31 +2,31 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 @font-face {
   font-family: Roboto_n;
-  src: url(/fonts/Roboto/static/Roboto-ExtraBold.ttf);
+  src: url(fonts/Roboto/static/Roboto-ExtraBold.ttf);
 }
 @font-face {
   font-family: Roboto_bi;
-  src: url(/fonts/Roboto/static/Roboto-BoldItalic.ttf);
+  src: url(fonts/Roboto/static/Roboto-BoldItalic.ttf);
 }
 @font-face {
   font-family: Roboto_hp;
-  src: url(/fonts/Roboto/static/Roboto-Medium.ttf);
+  src: url(fonts/Roboto/static/Roboto-Medium.ttf);
 }
 @font-face {
   font-family: Roboto_b;
-  src: url(/fonts/Roboto/static/Roboto-Bold.ttf);
+  src: url(fonts/Roboto/static/Roboto-Bold.ttf);
 }
 @font-face {
   font-family: Roboto_bs;
-  src: url(/fonts/Roboto/static/);
+  src: url(fonts/Roboto/static/);
 }
 @font-face {
   font-family: Ubuntu_b;
-  src: url(/fonts/Ubuntu/Ubuntu-Bold.ttf);
+  src: url(fonts/Ubuntu/Ubuntu-Bold.ttf);
 }
 @font-face {
   font-family: Ubuntu_m;
-  src: url(/fonts/Ubuntu/Ubuntu-Medium.ttf);
+  src: url(fonts/Ubuntu/Ubuntu-Medium.ttf);
 }
 /* Reset and base styles  */
 * {
@@ -772,7 +772,7 @@ legend {
 
 .block3 {
   margin-top: 5rem;
-  background: url("/images/fut/shutterstock_440123311.jpg") no-repeat center center/cover;
+  background: url("shutterstock_440123311.jpg") no-repeat center center/cover;
   height: auto;
   padding-bottom: 2rem;
 }
@@ -1193,7 +1193,7 @@ legend {
   justify-content: center;
   align-items: center;
   z-index: 1000000000000000000000;
-  background-image: url(/images/logo/logo.webp);
+  background-image: url(logo.webp);
   background-repeat: no-repeat;
   background-position: center;
 }
